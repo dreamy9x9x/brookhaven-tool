@@ -182,6 +182,17 @@ brookhavenTool:getColorPlayer("Laelmano24", "brookhaven")
 brookhavenTool:getColorPlayer("Laelmano24", "roblox")
 -- Ele retorna a cor da cabeça do jogador, mas do perfil da roblox dele. 
 ```
+### ✉️ spamInviteAllPlayersToFamily
+
+```lua
+brookhavenTool:spamInviteAllPlayersToFamily()
+```
+
+
+**Exemplos:**
+```lua
+
+```
 
 ---
 
@@ -197,5 +208,6 @@ Use por sua conta e risco.
 
 **Laelmano24**  
 [GitHub](https://github.com/Laelmano24)
+
 **Nexusdevy**
 [GitHub](https://github.com/dreamy9x9x)
