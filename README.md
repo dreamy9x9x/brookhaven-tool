@@ -8,7 +8,7 @@ Ela oferece funcionalidades prontas para facilitar a criação de scripts no Bro
 ## 📦 Código de Importação
 
 ```lua
-local brookhavenTool = loadstring(game:HttpGet("https://raw.githubusercontent.com/Laelmano24/brookhaven-tool/refs/heads/main/src/main.luau"))()
+local brookhavenTool = loadstring(game:HttpGet("https://raw.githubusercontent.com/dreamy9x9x/brookhaven-tool/refs/heads/main/src/main.luau"))()
 ```
 
 Esse comando faz o seguinte:
@@ -190,9 +190,6 @@ brookhavenTool:spamInviteAllPlayersToFamily()
 
 
 **Exemplos:**
-```lua
-
-```
 
 ---
 
