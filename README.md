@@ -197,3 +197,5 @@ Use por sua conta e risco.
 
 **Laelmano24**  
 [GitHub](https://github.com/Laelmano24)
+**Nexusdevy**
+[GitHub](https://github.com/dreamy9x9x)
